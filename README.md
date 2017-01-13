@@ -8,3 +8,8 @@ Just do it :smiley_cat:
 
 ## References
  - [Identifying and Customizing Keyboard Shortcuts in Visual Studio](https://msdn.microsoft.com/en-us/library/5zwses53.aspx)
+ - [How to: Assign a Shortcut Name to a Snippet](https://msdn.microsoft.com/library/w5dewx15(v=vs.100).aspx)
+
+
+## Similar
+ - [Visual Studio Code :love_letter: Sublime Text (3)](https://github.com/s-a/visual-studio-code-keyboard-like-sublime-text)
